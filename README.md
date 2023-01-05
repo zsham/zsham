@@ -4,13 +4,6 @@
 - 💞️ I’m looking to collaborate on developing new software ...
 - 📫 Reach me ... tomyagung@gmail.com
 
-#include <iostream> 
-using namespace std; 
- 
-int main() { 
-cout << "Welcome Everybody"; 
-} 
-
 
 <!---
 zsham/zsham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
