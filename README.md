@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Z@sham
-- 👀 I’m interested in PHP / mySQL ...
-- 🌱 I’m currently learning LARAVEL 9 CRUD App, Livewire and Flutter...
-- 💞️ I’m looking to collaborate on developing new software ...
-- 📫 Reach me ... tomyagung@gmail.com
+- Software developer, specialized in PHP.
 
 
 <!---
