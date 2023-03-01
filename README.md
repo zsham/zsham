@@ -1,4 +1,4 @@
-- Software developer Personal 
+- Personal Software Developer 
 
 - specialized in PHP, MySQL, CSS, C++, Java, asp.net, Kotlin
 
