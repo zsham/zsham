@@ -1,4 +1,4 @@
-- Personal Software Developer 
+- Software Project Developer 
 
 - specialized in PHP, MySQL, CSS, C++, Java, asp.net, Kotlin
 
