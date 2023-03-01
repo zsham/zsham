@@ -1,6 +1,6 @@
 - Software Project Developer 
 
-- specialized in PHP, MySQL, CSS, C++, Java, asp.net, Kotlin
+- Specialized in PHP, MySQL, CSS, C++, Java, asp.net, Kotlin
 
 - Mobile app - Android, iOS.
 
