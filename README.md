@@ -1,10 +1,10 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
 <div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">Hi , I'm z@Sham <animated-image data-catalyst="" style="width: 35px;">
       <img src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="41" height="40" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
+<p align="center" dir="auto">
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" target="_blank">
-          
-      
+        
 <p align="center" dir="auto">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://camo.githubusercontent.com/02710c47062f3f7b2e8304c1017379f9f3d60d029ca8cb2b631eaed97fafc0b2/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6c696e65733d436f6d70757465722b536369656e746973743b4d616368696e652b4c6561726e696e672b456e67696e6565723b416e64726f69642b446576656c6f7065723b446174612b536369656e746973743b436c6f75642b456e67696e6565723b4261636b656e642b446576656c6f7065723b46756c6c2b537461636b2b446576656c6f7065723b47726164756174652b6f662b464153542d4e554345533b416c776179732b6c6561726e696e672b6e65772b7468696e67732663656e7465723d747275652677696474683d353030266865696768743d3530" data-canonical-src="https://readme-typing-svg.herokuapp.com?lines=Computer+Scientist;Machine+Learning+Engineer;Android+Developer;Data+Scientist;Cloud+Engineer;Backend+Developer;Full+Stack+Developer;Graduate+of+FAST-NUCES;Always+learning+new+things&amp;center=true&amp;width=500&amp;height=50" style="max-width: 100%;"></p></a>
 
