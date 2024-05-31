@@ -15,7 +15,7 @@
 
 <div class="markdown-heading" dir="auto"><h4 class="heading-element" dir="auto">🛠️ Tools and Languages</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,php,java,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=laravel,ps,php,wordpress,mysql,java,js,jquery,kotlin,docker,html,htmx,c,cpp,visualstudio,vscode,androidstudio,nginx,nodejs,npm,raspberrypi,bootstrap,css,discord,discordjs,eclipse,firebase,git,github,gmail,powershell,py,sublime,svg" />
 </p></div>
 <p align="center" dir="auto">
 
