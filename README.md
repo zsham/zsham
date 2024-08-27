@@ -9,7 +9,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8D20&center=true&random=true&width=1000&lines=Computer+Programmer;Machine+Learning+Software;Android+Developer;Data+Software;Cloud+Engineer;Backend+Developer;Full+Stack+Developer;Graduate+of+Universiti+Industri+Selangor+(UNiSEL);Graduate+of+Universiti+Teknologi+Malaysia+(UTM);Always+learning+new+thing" alt="Typing SVG" /></a>
 
 <p align="center" dir="auto">
-  <a href="mailto:tomyagung@gmail.com"><img src="https://camo.githubusercontent.com/eaac252d0e3c7c287b34bd1db467a8953d908fa88ab4d11deae8aee89ff145c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334541343333352e7376673f7374796c653d706c6173746963266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="mailto:tomyagung@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="https://www.linkedin.com/in/zurisham-yunus-31721a3b/" rel="nofollow"><img src="https://camo.githubusercontent.com/e9936ff00928028fc610bb2b3ed5a3e41a1d082e62436bd0f8ec2f2c7efba609/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333041363643322e7376673f7374796c653d706c6173746963266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
