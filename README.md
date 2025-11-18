@@ -6,7 +6,7 @@
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" target="_blank">
         
 <p align="center" dir="auto">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8D20&center=true&random=true&width=1000&lines=Computer+Programmer;Machine+Learning+Software;Android+Developer;Data+Software;Cloud+Engineer;Backend+Developer;Full+Stack+Developer;Graduate+of+Universiti+Industri+Selangor+(UNiSEL);Graduate+of+Universiti+Teknologi+Malaysia+(UTM);Always+learning+new+thing" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8D20&center=true&random=true&width=1000&lines=Computer+Programmer;Machine+Learning+Software;Android+Developer;Data+Software;Cloud+Engineer;Backend+Developer;Full+Stack+Developer;Graduate+of+Universiti+Industri+Selangor+(UNiSEL);Graduate+of+Universiti+Teknologi+Malaysia+(UTM);Always+learning+new+thing" alt="Typing SVG" />
 
 <p align="center" dir="auto">
   <a href="mailto:tomyagung@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -30,7 +30,7 @@
 
 - Software Project Developer 
 
-- Specialized in PHP, MySQL, CSS, C++, Java, asp.net, Kotlin
+- Specialized in PHP, Phyton, MySQL, MSSQL, ORACLE, CSS, C++, Java, asp.net, Kotlin, js 
 
 - Mobile app - Android, iOS.
 
