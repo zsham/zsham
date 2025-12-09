@@ -30,7 +30,7 @@
 
 - Software Project Developer 
 
-- Specialized in PHP, Phyton, MySQL, MSSQL, ORACLE, CSS, C++, Java, asp.net, Kotlin, js 
+- Specialized in PHP, Laravel, Phyton, MySQL, MSSQL, ORACLE, CSS, C++, Java, TypeScript, asp.net, Kotlin, js 
 
 - Mobile app - Android, iOS.
 
