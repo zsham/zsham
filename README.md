@@ -30,6 +30,11 @@
 
 # 👋 Hi, I'm a Software Project Developer
 
+![AI](https://img.shields.io/badge/AI-Enabled-blue)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-black?logo=openai)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+
 Full-stack developer with strong experience in web and mobile application development.  
 I specialize in building scalable, maintainable, and high-performance software solutions.
 
@@ -46,6 +51,7 @@ I specialize in building scalable, maintainable, and high-performance software s
 - **Backend:** Laravel, Symfony, Zend Framework, Django, Ruby on Rails, ASP.NET
 - **Frontend:** Angular
 - **Mobile:** Android (Kotlin), iOS
+- **AI & Automation:** OpenAI API, Chatbots, Prompt Engineering
 
 ## 🛠️ Tools & IDEs
 - Visual Studio Code, PhpStorm
@@ -56,6 +62,7 @@ I specialize in building scalable, maintainable, and high-performance software s
 - Develop scalable web applications and RESTful APIs
 - Build mobile applications for Android and iOS
 - Design and optimize relational databases
+- Integrate AI-powered features (chatbots, automation, intelligent assistants)
 - Deliver clean, maintainable, and well-documented code
 
 
