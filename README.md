@@ -28,25 +28,36 @@
       </span></animated-image></p>
 </article>
 
-# Software Project Developer
+# 👋 Hi, I'm a Software Project Developer
 
-Experienced Full-Stack Software Developer with a strong background in web and mobile application development. Proven ability to design, develop, and maintain enterprise-level applications using modern frameworks and technologies.
+Full-stack developer with strong experience in web and mobile application development.  
+I specialize in building scalable, maintainable, and high-performance software solutions.
 
-## Technical Expertise
-**Languages:** PHP, Python, Java, C++, JavaScript, TypeScript, Kotlin, C#  
-**Frameworks:** Laravel, Symfony, Zend Framework, Django, Ruby on Rails, ASP.NET, Angular  
-**Databases:** MySQL, Microsoft SQL Server, Oracle  
-**Mobile Development:** Android, iOS  
+---
 
-## Tools
-Visual Studio Code, PhpStorm, Android Studio, Eclipse, Adobe Photoshop, Adobe Illustrator
+## 💻 Programming Languages
+- PHP, Python, Java, C++, JavaScript, TypeScript
+- Kotlin, ASP.NET (C#)
 
-## Core Competencies
-- Full-stack application development  
-- REST API design and integration  
-- Database architecture and optimization  
-- Cross-platform mobile development  
-- Clean code and best practices
+## 🗄️ Databases
+- MySQL, Microsoft SQL Server, Oracle
+
+## ⚙️ Frameworks & Technologies
+- **Backend:** Laravel, Symfony, Zend Framework, Django, Ruby on Rails, ASP.NET
+- **Frontend:** Angular
+- **Mobile:** Android (Kotlin), iOS
+
+## 🛠️ Tools & IDEs
+- Visual Studio Code, PhpStorm
+- Android Studio, Eclipse
+- Adobe Photoshop, Adobe Illustrator
+
+## 🚀 What I Do
+- Develop scalable web applications and RESTful APIs
+- Build mobile applications for Android and iOS
+- Design and optimize relational databases
+- Deliver clean, maintainable, and well-documented code
+
 
 
 
