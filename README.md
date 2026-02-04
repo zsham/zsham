@@ -34,6 +34,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-black?logo=openai)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)
 
 Full-stack developer with strong experience in web and mobile application development.  
 I specialize in building scalable, maintainable, and high-performance software solutions.
@@ -50,12 +51,12 @@ I specialize in building scalable, maintainable, and high-performance software s
 ## ⚙️ Frameworks & Technologies
 - **Backend:** Laravel, Symfony, Zend Framework, Django, Ruby on Rails, ASP.NET
 - **Frontend:** Angular
-- **Mobile:** Android (Kotlin), iOS
+- **Mobile:** Android (Kotlin), iOS (Swift, Xcode)
 - **AI & Automation:** OpenAI API, Chatbots, Prompt Engineering
 
 ## 🛠️ Tools & IDEs
 - Visual Studio Code, PhpStorm
-- Android Studio, Eclipse
+- Android Studio, Xcode, Eclipse
 - Adobe Photoshop, Adobe Illustrator
 
 ## 🚀 What I Do
