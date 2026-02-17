@@ -28,8 +28,6 @@
       </span></animated-image></p>
 </article>
 
-# 👋 Hi, I'm a Software Project Developer
-
 ![AI](https://img.shields.io/badge/AI-Enabled-blue)
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-black?logo=openai)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
