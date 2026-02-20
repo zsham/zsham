@@ -34,7 +34,7 @@
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)
 
 Full-stack developer with strong experience in web and mobile application development.  
-I specialize in building scalable, maintainable, and high-performance software solutions.
+Specialize in building scalable, maintainable, and high-performance software solutions.
 
 ---
 
