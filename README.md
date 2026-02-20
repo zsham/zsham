@@ -1,5 +1,5 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
-<div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">Welcome to my github, I'm z@Sham <animated-image data-catalyst="" style="width: 35px;">
+<div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">Welcome, I'm z@Sham <animated-image data-catalyst="" style="width: 35px;">
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="41" height="40" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
 <p align="center" dir="auto">
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
