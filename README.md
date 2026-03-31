@@ -1,3 +1,14 @@
+## 📊 My GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+## 🚧 Project Progress
+![Progress](https://img.shields.io/badge/Progress-70%25-green)
+
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
 <div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">Welcome, I'm z@Sham <animated-image data-catalyst="" style="width: 35px;">
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="41" height="40" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
