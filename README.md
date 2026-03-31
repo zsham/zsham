@@ -1,5 +1,5 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
-<div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto"> 📊 My GitHub Stats
+<div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto"> 📊 My GitHub Stats<p></p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zsham" />
 </p>
