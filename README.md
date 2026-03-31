@@ -1,9 +1,7 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
 <div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto"> 📊 My GitHub Stats
-<p align="center" dir="auto">
- </p>    
-<p align="center" dir="auto">
-![Streak](https://streak-stats.demolab.com?user=zsham)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zsham" />
 </p>
 <p align="center" dir="auto">
   <a href="mailto:tomyagung@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
