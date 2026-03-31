@@ -3,9 +3,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zsham" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cict-unisel" />
-</p>
 <p align="center" dir="auto">
   <a href="mailto:tomyagung@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="https://www.linkedin.com/in/zurisham-yunus-31721a3b/" rel="nofollow"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
